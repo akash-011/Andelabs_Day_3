@@ -9,4 +9,3 @@ def find_max_min(num_list):
 		return final
 
 
-print find_max_min([4,4,44,4])
